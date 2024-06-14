@@ -37,21 +37,3 @@ This will start the development server and open the app in your default web brow
 
 Usage
 After starting the development server, you should see the counter app in your browser. You can increment and decrement the counter using the buttons provided.
-
-Project Structure
-The project structure is as follows:
-
-java
-Copiar código
-my-redux-app
-├── public
-│   └── index.html
-├── src
-│   ├── features
-│   │   └── counterSlice.js
-│   ├── components
-│   │   └── Counter.jsx
-│   ├── App.jsx
-│   ├── index.js
-│   └── store.js
-└── package.json
